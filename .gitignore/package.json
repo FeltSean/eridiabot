@@ -1,0 +1,11 @@
+{
+  "name": "eridiabot",
+  "version": "1.0.0",
+  "description": "Je suis le Bot du serveur minecraft pe EridiaPE",
+  "main": "index.js",
+  "scripts": {
+    "test": "/help"
+  },
+  "author": "FeltSean",
+  "license": "ISC"
+}
